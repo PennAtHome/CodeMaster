@@ -63,6 +63,9 @@
 *	2.邮箱 pennathome@hotmail.com、
 *	3.github https://github.com/PennAtHome/CodeMaster.git
 
+0.1.15
+*	1.更换MMD角色
+*	2.重构卡通渲染Shader(NPR)
 
 tobe
 
