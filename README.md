@@ -46,6 +46,7 @@
 邮箱 pennathome@hotmail.com
 
 游戏发布平台 https://github.com/PennAtHome/CodeMaster
+游戏测试反馈 Q群: 514694067，口令：我是你主人
 
 
 感谢，愿新冠疫情早日终结 ~
