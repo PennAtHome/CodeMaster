@@ -5,7 +5,7 @@
 是一款因为疫情宅在家中、利用业余时间开发的免费独立游戏（非商业项目），
 当前版本理论上支持所有VR眼镜(塞手机的那种便宜眼睛) 和 蓝牙手柄(须支持安卓)
 
-<img src="URPToon_v0.1.16.8.png" width="50%"> 
+<img src="http://codemaster.life/codeMaster.jpg" width="50%"> 
 
 最新 0.1.18.1 版，最新调整如下：
 
