@@ -7,6 +7,10 @@
 
 <img src="http://codemaster.life/codeMaster.jpg" width="50%"> 
 
+#测试 0.2.0 PICO NEO3 开发版
+PICO 测试版已发布，需要的同学请自行下载安装
+http://pennchen.host:20088/apk/CMasterVR.0.2.1.Pico.apk
+
 #最新 0.1.24 版，调整如下：
 
 *.(0.1.24)修正由于代码调整产生的角色卡无法点击下载的bug，推荐更新！（在更新进度右侧，点击（↑）按钮）
